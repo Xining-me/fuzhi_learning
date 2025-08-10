@@ -1,8 +1,8 @@
-site_name: 2025年浙江大学本科新生指引
+site_name: 2025年郑州西亚斯学院本科新生指引
 site_author: mini-full
-site_description: 浙江大学本科生新生指引为浙江大学CC98论坛新生宝典版面编撰的新生入学指南。
-repo_name: zju-welcome
-repo_url: https://github.com/kxwangzju/zju-welcome/
+site_description: 郑州西亚斯学院本科新生指引为汇总郑州西亚斯学院多渠道信息编撰的新生入学指南。
+repo_name: sias-welcome
+repo_url: https://github.com/fuzhi_Learing/sias-welcome/
 
 copyright: Copyright &copy; 2023-present <a href="https://github.com/kxwangzju/zju-welcome/" target="_blank" rel="noopener noreferrer">新生指引编委会</a>
 
